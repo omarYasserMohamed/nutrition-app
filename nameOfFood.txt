@@ -1,0 +1,30 @@
+this here are the name of the food that the program can understand
+
+
+protien source for breakfast:
+1-eggs
+2-greek yoghurt
+3-skimmed milk
+
+carb source for breakfast:
+1-oats
+2-honey
+
+fat source:
+1-cashew
+2-peanut butter
+3-almond
+4-pistachio
+
+protien source for all meals except breakfast:
+1- tilapia
+2- tuna can
+3- cottage cheese
+4- chicken b
+5- chicken t
+
+carb source for all meals except breakfast:
+1-white rice
+2-brown rice
+3- bastmati rice
+
